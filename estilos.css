@@ -16,3 +16,16 @@ body{
     background-repeat: no-repeat;
 
 }
+
+.titulo{
+    text-align: center;
+    font-size: 50px;
+    color: #46153f;
+}
+.imagent{
+
+    height: 227px;
+    width: 300px;
+    background-repeat: no-repeat;
+    background-image: url("circuitos.png");
+}
