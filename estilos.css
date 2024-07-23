@@ -2,10 +2,11 @@
 
 .texto{
    
-    font-size: 50px;
+    font-size: 30px;
     padding-top: 140px;
     text-align: justify;
     color: rgb(0, 0, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .principal{
    display: flex;
@@ -20,7 +21,7 @@ body{
 .titulo{
     text-align: center;
     font-size: 50px;
-    color: #46153f;
+    color: #c17fca;
 }
 .imagent{
 
@@ -28,4 +29,5 @@ body{
     width: 300px;
     background-repeat: no-repeat;
     background-image: url("circuitos.png");
+    float: left;
 }
