@@ -31,3 +31,12 @@ body{
     background-image: url("circuitos.png");
     float: left;
 }
+.imagent{
+height: 227px;
+width: 300px;
+background-repeat: no-repeat;
+background-image:url(imagent2.png) ;
+float: left;
+
+
+}
