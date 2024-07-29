@@ -14,22 +14,22 @@
 }
 body{
     background-image: url("rosa.jpg");
-    background-repeat: no-repeat;
+    background-repeat: no-repeat
+
+
 
 }
+
+
 
 .titulo{
     text-align: center;
     font-size: 50px;
     color: #c17fca;
 }
-.imagent{
-
+.img1{
     height: 227px;
     width: 300px;
-    background-repeat: no-repeat;
- background-image: url(circuitos.png);
+    background-image: url("circuitos.png");
     float: left;
-
-
 }
