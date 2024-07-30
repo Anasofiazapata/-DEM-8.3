@@ -33,3 +33,9 @@ body{
     background-image: url("circuitos.png");
     float: left;
 }
+.img2{
+height: 230px;
+width: 300px;
+background-image: url("imagent2.png");
+float: left;
+}
