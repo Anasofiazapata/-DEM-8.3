@@ -32,6 +32,7 @@ body{
     width: 300px;
     background-image: url("circuitos.png");
     float: left;
+    background-repeat: no-repeat;
 }
 .img2{
 height: 430px;
@@ -40,3 +41,18 @@ background-image: url("imagent2.png");
 float: left;
 background-repeat: no-repeat;
 }
+.img3{
+height: 227px;
+width: 300px;
+background-image: url("img 3.png");
+float: left;
+background-repeat: no-repeat;
+}
+
+
+
+
+
+
+
+
