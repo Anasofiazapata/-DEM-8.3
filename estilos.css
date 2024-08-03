@@ -48,7 +48,15 @@ background-image: url("img 3.png");
 float: left;
 background-repeat: no-repeat;
 }
+.img4{
+height: 227px;
+width: 300px;
+background-image: url("frutas y verduras.png");
+float: left;
+background-repeat: no-repeat;
 
+
+}
 
 
 
