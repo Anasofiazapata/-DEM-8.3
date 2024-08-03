@@ -44,14 +44,14 @@ background-repeat: no-repeat;
 .img3{
 height: 227px;
 width: 300px;
-background-image: url("img 3.png");
+background-image: url(".png");
 float:right;
 background-repeat: no-repeat;
 }
 .img4{
 height: 227px;
 width: 300px;
-background-image: url("frutas.png");
+background-image: url("frutas y verduras 3.png");
 float: right;
 background-repeat: no-repeat;
 }
