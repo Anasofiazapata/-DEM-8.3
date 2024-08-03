@@ -33,13 +33,14 @@ body{
     background-image: url("circuitos.png");
     float: left;
     background-repeat: no-repeat;
-}
+   }
 .img2{
-height: 430px;
-width: 600px;
+height: 270px;
+width: 300px;
 background-image: url("imagent2.png");
 float: left;
 background-repeat: no-repeat;
+
 }
 .img3{
 height: 227px;
@@ -47,18 +48,105 @@ width: 300px;
 background-image: url("MONTAR BICICLETA.png");
 float:left;
 background-repeat: no-repeat;
+
 }
 .img4{
 height: 227px;
 width: 300px;
 background-image: url("frutas y verduras 3.png");
 float: left;
-background-repeat: no-repeat;
+
 }
+.img5
+{height: 227px;
+width: 300px;
+background-image: url("haciendo ejercicio.png") ;
+float: left;
+}
+.img6
+{height: 227px;
+width: 300px;
+background-image: url("dormir bien.png");
+float: left;
+
+}
+.img7
+{height: 227px;
+width: 300px;
+background-image:url("tomar soda.png") ;
+float: left;
 
 
+}
+.img8
+{
+height: 227px;
+width: 300px;
+background-image: url(fumar.png);
+float: left;
+}
+.img9
+{
+    height: 227px;
+width: 300px;
+background-image: url(consumir\ drogas.png);
+float: left;
+}
+.img10 
+{ 
+height: 227px;
+width: 300px;
+background-image: url(comida\ frita.png);
+float: left;
+  }
+  .img11
+  {
+height: 227px;
+width: 300px;
+background-image: url(comer\ dulces.png);
+float: left;
+  }
+  .img12
+  {
+height: 227px;
+width: 300px;
+background-image: url(tomar\ un\ baño.png);
+float: left;
+  }
+  .img13
+  {
+height: 227px;
+width: 300px;
+background-image: url(controlar\ estres.png);
+float: left;
+  }
+.img14
+{
+height: 227px;
+width: 300px;
+background-image: url(tomar\ alcohol.png);
+float: left;
 
+}
+.img15
+{
+height: 227px;
+width: 300px;
+background-image: url(trastornos\ alimenticios.png);
+float: left;
 
-
-
-
+}
+.img16
+{
+height: 227px;
+width: 300px;
+background-image: url(anorexia.png);
+float: left;
+}
+.img17
+{
+height: 227px;
+width: 300px;
+background-image: url(bulimia.png);
+float: left;
+}
