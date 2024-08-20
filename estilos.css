@@ -157,3 +157,9 @@ background-image: url(mapacon.png);
 float: left;
 background-repeat: no-repeat;
 }
+
+.titulo{
+  text-align: center;
+  font-size: 50px;
+  color: #c17fca;
+}
