@@ -82,49 +82,49 @@ float: left;
 {
 height: 227px;
 width: 300px;
-background-image: url(fumar.png);
+background-image: url("fumar.png");
 float: left;
 }
 .img9
 {
     height: 227px;
 width: 300px;
-background-image: url(consumir\ drogas.png);
+background-image: url("consumir\ drogas.png");
 float: left;
 }
 .img10 
 { 
 height: 227px;
 width: 300px;
-background-image: url(comida\ frita.png);
+background-image: url("comida\ frita.png");
 float: left;
   }
   .img11
   {
 height: 227px;
 width: 300px;
-background-image: url(comer\ dulces.png);
+background-image: url("comer\ dulces.png");
 float: left;
   }
   .img12
   {
 height: 227px;
 width: 300px;
-background-image: url(tomar\ un\ baño.png);
+background-image: url("tomar\ un\ baño.png");
 float: left;
   }
   .img13
   {
 height: 227px;
 width: 300px;
-background-image: url(controlar\ estres.png);
+background-image: url("controlar\ estres.png");
 float: left;
   }
 .img14
 {
 height: 227px;
 width: 300px;
-background-image: url(tomar\ alcohol.png);
+background-image: url("tomar\ alcohol.png");
 float: left;
 
 }
@@ -132,7 +132,7 @@ float: left;
 {
 height: 227px;
 width: 300px;
-background-image: url(trastornos\ alimenticios.png);
+background-image: url("trastornos\ alimenticios.png");
 float: left;
 
 }
@@ -140,14 +140,14 @@ float: left;
 {
 height: 227px;
 width: 300px;
-background-image: url(anorexia.png);
+background-image: url("anorexia.png");
 float: left;
 }
 .img17
 {
 height: 227px;
 width: 300px;
-background-image: url(bulimia.png);
+background-image: url("bulimia.png");
 float: left;
 }
 .imagentS{
@@ -168,11 +168,28 @@ background-repeat: no-repeat;
 .imagent18{
 height: 500px;
 width: 500px;
-background-image: url(imagen\ de\ inicio.webp);
+background-image: url("imagen\ de\ inicio.webp");
 float: left;
+background-repeat: no-repeat;  }
+
+
+
+
+.imagent19{
+height: 500px;
+width: 500px;
+background-image: url("la\ guerra\ y\ la\ paz\ 2.png");
+float:left;
+background-repeat: no-repeat;  }
+
+
+.imagent20{
+height: 500px;
+width: 500px;
+background-image: url("guerra.png");
+float: inline-start;
 background-repeat: no-repeat;
+
+
+
 }
-
-
-
-
