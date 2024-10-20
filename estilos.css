@@ -187,9 +187,12 @@ background-repeat: no-repeat;  }
 height: 500px;
 width: 500px;
 background-image: url("guerra.png");
-float: inline-start;
+float: left;
 background-repeat: no-repeat;
 
 
 
 }
+
+
+
