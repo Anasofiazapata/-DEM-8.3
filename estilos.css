@@ -166,8 +166,8 @@ background-repeat: no-repeat;
 
 
 .imagent18{
-height: 500px;
-width: 500px;
+height: 800px;
+width: 900px;
 background-image: url("imagen\ de\ inicio.webp");
 float: left;
 background-repeat: no-repeat;  }
@@ -175,17 +175,17 @@ background-repeat: no-repeat;  }
 
 
 
-.imagent19{
-height: 500px;
-width: 500px;
+.img19{
+height: 600px;
+width: 700px;
 background-image: url("la\ guerra\ y\ la\ paz\ 2.png");
 float:left;
 background-repeat: no-repeat;  }
 
 
-.imagent20{
-height: 500px;
-width: 500px;
+.img20{
+height: 600px;
+width: 700px;
 background-image: url("guerra.png");
 float: left;
 background-repeat: no-repeat;
@@ -194,5 +194,32 @@ background-repeat: no-repeat;
 
 }
 
+.img21{
+height: 5000px;
+width: 6000px;
+background-image: url(mapa\ sociales\ 3.png);
+background-repeat: no-repeat;
+float: left;
+}
+
+.imgana{
+  height: 900px;
+  width: 1000px;
+  background-image: url(ana.png);
+  background-repeat: no-repeat;
+  float: left;
 
 
+
+}
+
+.imgarango{
+  height: 900px;
+  width: 1000px;
+  background-image: url(arango.png);
+  background-repeat: no-repeat;
+  float: left;
+
+
+
+}
